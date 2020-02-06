@@ -23,7 +23,7 @@
     // This will extract the region name from URL hash, and then load [region].html into the main #content div
     // var region = location.hash.toString() || '#first';
     // $('#content').load(region.slice(1) + '.html')
-    window.prompt("sometext","defaultText");
+    window.prompt("winner winner,you get a diner","Are you hungry?");
   });
   
 })(jQuery);
